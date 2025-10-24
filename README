@@ -1,0 +1,38 @@
+# CV de Daniel Felipe Cordero Cordero
+
+Este repositorio contiene mi CV en línea, diseñado para mostrar lo que puedo hacer en **HTML, CSS y JavaScript**, además de mis habilidades en **WordPress y multimedia**. Está pensado para que quien lo vea se haga una idea clara de mi trabajo sin necesidad de explicarlo en mil palabras.
+
+---
+
+## Características principales
+
+- **Responsive**: La estructura está optimizada para dispositivos móviles y escritorio.  
+- **Menú Off-Canvas**: Modernizado y funcional, con experiencia de usuario fluida.  
+- **Animaciones**: Todas las secciones cuentan con animaciones basadas en el viewport, usando JavaScript para entrada y salida.  
+- **Barras de habilidades**: Representación visual de mis competencias en desarrollo y multimedia.  
+- **Código limpio y estructurado**: Basado en [codigowebmp/cv](https://github.com/codigowebmp/cv), con mejoras en diseño, responsividad y personalización.  
+
+---
+
+## Sobre este proyecto
+
+Este CV no es solo un PDF o una imagen; está hecho para mostrar mi trabajo en vivo, destacando habilidades en diseño, desarrollo web y multimedia.  
+Las notas dentro del código son informales; si decides usar la base, siéntete libre de adaptarla a tu estilo.  
+
+Otros proyectos que he desarrollado antes no estaban en GitHub, pero este repositorio refleja mi **compromiso actual con mostrar mis capacidades y organizar mi portafolio online**.  
+
+---
+
+## Tecnologías utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Fuentes y librerías externas (Font Awesome, Google Fonts)  
+- Animaciones basadas en `IntersectionObserver`  
+
+## Licencia
+
+El código de este proyecto está bajo la [MIT License](LICENSE).
+
+**Aviso:** Las imágenes, fotos y datos personales incluidos en este repositorio **no están cubiertos** por la licencia MIT y no pueden ser usados sin autorización.
